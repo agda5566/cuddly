@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2283BD7C-0428-5360-59AD-3A67D585C9A5}") = "raytest", "Assembly-CSharp.csproj", "{30895185-F21F-6BB6-C0EF-4F4CFF11AEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30895185-F21F-6BB6-C0EF-4F4CFF11AEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30895185-F21F-6BB6-C0EF-4F4CFF11AEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30895185-F21F-6BB6-C0EF-4F4CFF11AEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30895185-F21F-6BB6-C0EF-4F4CFF11AEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
